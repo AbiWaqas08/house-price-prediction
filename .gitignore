@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 *.pyo
+.ipynb_checkpoints/
 
 # Virtual environments
 env/
