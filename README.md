@@ -140,7 +140,7 @@ json
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/house-price-prediction-ml.git
+git clone https://github.com/AbiWaqas08/house-price-prediction-ml.git
 cd house-price-prediction-ml
 ```
 
