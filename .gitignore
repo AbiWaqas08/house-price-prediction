@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+*.env
+
+# Model files (optional but recommended)
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
